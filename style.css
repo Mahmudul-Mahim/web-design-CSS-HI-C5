@@ -1,0 +1,24 @@
+ul{
+    margin: 0 auto;
+    list-style: none;
+    /** UL already ekta block level elemen tae amader eta k block korar dorkar nei **/
+    text-align: center;
+}
+/** ekhn amra li k display inline korbo **/
+
+ul li {
+    display: inline;
+}
+p{
+    color: rgb(187, 52, 52);
+    font-size: 1.6em;
+    text-align: center;
+    font-weight: normal;
+}
+div a{
+    color:rgb(71, 47, 47)(17, 9, 9);text-decoration: none;
+}
+span{
+    color: salmon;
+    text-decoration: underline;
+}

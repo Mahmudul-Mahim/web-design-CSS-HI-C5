@@ -1,0 +1,17 @@
+body{
+    margin: 0%;
+}
+div{
+    background-color: deeppink;
+    text-align: center;
+    margin: 0 auto;
+    height: 100px;
+    width: 200px;
+    transition: 0.5s;
+}
+div:hover{
+    background-color: rgba(228, 213, 77, 0.835);
+    font-size: 50px;
+    width: 200px;
+    height: 500px;
+}
